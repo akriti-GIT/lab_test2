@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="400dp"
+    android:viewportWidth="300"
+    android:viewportHeight="400">
+
+    <!-- Background Card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h300v400h-300z" />
+
+    <!-- Avatar Circle -->
+    <path
+        android:fillColor="#C0392B"
+        android:pathData="M150,50m-24,0a24,24 0 1,1 48,0a24,24 0 1,1 -48,0" />
+
+    <!-- 'B' Text Avatar representation -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M144,38h7c3,0 5,1 5,3c0,1 -1,2 -2,3c2,0 3,2 3,4c0,3 -2,4 -6,4h-7v-14zM147,43h3c1,0 2,0 2,-1c0,-1 -1,-1 -2,-1h-3v2zM147,49h4c1,0 2,0 2,-1c0,-1 -1,-1 -2,-1h-4v2z" />
+
+</vector>
